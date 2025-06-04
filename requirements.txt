@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+wordcloud
+
+nano requirements.txt
+
+
