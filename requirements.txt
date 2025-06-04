@@ -2,7 +2,4 @@ streamlit
 pandas
 matplotlib
 wordcloud
-
-nano requirements.txt
-
-
+google-api-python-client
